@@ -1,4 +1,51 @@
-<h1>   Arthur Braga  
+ Hello👋 , my name is Arthur! A passionate about cybersecurity.
+
+
+
+
+🎓 I am currently studying cybersecurity at Uniasselvi.
+
+
+
+
+gato preto
+
+
+
+
+
+
+<details>
+<summary>👨‍💻 More about me</summary>
+  
+<p> I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
+
+I enjoy reading books and manga, studying new languages, playing games, and practicing extreme sports.
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+gato azul
+
+
+<details> 👨‍💻 More about me 
+
+
+   SDASD
+   
+<p> I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
+
+I enjoy reading books and manga, studying new languages, playing games, and practicing extreme sports.
+ </details>
 
 <h2>👨‍💻 Cybersecurity :</h2>
 
@@ -6,7 +53,7 @@
 
   
 
-FEITO 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BragaArt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
