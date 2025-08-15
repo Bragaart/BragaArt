@@ -1,59 +1,37 @@
- Hello👋 , my name is Arthur! A passionate about cybersecurity.
+<h2> Presentation👋 :</h2>
+ 
+ * Hello, my name is Arthur! A passionate about cybersecurity.
 
 
 
 
-🎓 I am currently studying cybersecurity at Uniasselvi.
+* 🎓 I am currently studying Cybersecurity at Uniasselvi.
 
-
-
-
-gato preto
-
-
-
-
-
+* 🔭  I am looking for my first job opportunity. My dream is to one day work with Incident Response
 
 <details>
-<summary>👨‍💻 More about me</summary>
-  
-<p> I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
-
-I enjoy reading books and manga, studying new languages, playing games, and practicing extreme sports.
-
-
+  <summary>👨‍💻 More about me</summary>
+  <br> <!-- espaçamento -->
+  <p>
+    🏂 I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management. I like to devote my free time to reading books and manga, studying new languages, playing games and doing extreme sports.
+  </p>
 </details>
+</p>
+</p>
+</p>
+<h2>📈 Certifications :</h2>
 
 
 
 
 
 
-
-
-
-
-gato azul
-
-
-<details> 👨‍💻 More about me 
-
-
-   SDASD
-   
-<p> I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
-
-I enjoy reading books and manga, studying new languages, playing games, and practicing extreme sports.
- </details>
-
-<h2>👨‍💻 Cybersecurity :</h2>
 
 
 
   
 
-
+<h2> 💻 Activities:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BragaArt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -69,11 +47,12 @@ I enjoy reading books and manga, studying new languages, playing games, and prac
 
 
 <h2>  Portfolio :</h2>
+ Em fase de criação 
 
- GOD 
 <h2>📺 Popular YouTube Videos</h2>
-
-<h2> 🤳 Connect with me:</h2>
+ Preparando os vídeos
+ 
+<h2> 📲  Connect with me:</h2>
 
 <div align="left">
   <a href="https://youtube.com/seu-perfil" target="_blank" style="display:inline-block; vertical-align:top;">
