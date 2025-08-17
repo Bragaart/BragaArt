@@ -10,10 +10,12 @@
 * 🔭  I am looking for my first job opportunity. My dream is to one day work with Incident Response
 
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 More about me </summary>
   <br> <!-- espaçamento -->
   <p>
-    🏂 I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management. I like to devote my free time to reading books and manga, studying new languages, playing games and doing extreme sports.
+    😊 I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management. 
+ <p>   
+  🏂 I like to devote my free time to reading books and manga, studying new languages, playing games and doing extreme sports.
   </p>
 </details>
 </p>
@@ -21,15 +23,20 @@
 </p>
 <h2>📈 Certifications :</h2>
 
+<details>
+  <summary>Meus Emblemas</summary>
+  <div style="display:flex; flex-wrap:wrap; gap:10px;">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Emblema 1" width="100">
+    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Emblema 2" width="100">
+    <img src="emblema3.png" alt="Emblema 3" width="100">
+  </div>
+</details>
 
 
+ 
 
-
-
-
-
-
-  
+ 
+</details>
 
 <h2> 💻 Activities:</h2>
 
@@ -47,10 +54,10 @@
 
 
 <h2>  Portfolio :</h2>
- Em fase de criação 
+ In the stage of creation
 
 <h2>📺 Popular YouTube Videos</h2>
- Preparando os vídeos
+ Preparing videos 
  
 <h2> 📲  Connect with me:</h2>
 
