@@ -1,14 +1,13 @@
 <h2> Presentation👋 :</h2>
  
- * Hello, my name is Arthur! A passionate about cybersecurity.
+ * Hello, my name is Arthur! A passionate about Cybersecurity.
 
 
 
 
 * 🎓 I am currently studying Cybersecurity at Uniasselvi.
 
-* 🔭  I am looking for my first job opportunity. My dream is to one day work with Incident Response
-
+* 🔭  I am looking for my first job opportunity.  My dream is to one day work with Cybersecurity and give a good life to my parents.
 <details>
   <summary>👨‍💻 More about me </summary>
   <br> <!-- espaçamento -->
@@ -28,7 +27,7 @@
   <div style="display:flex; flex-wrap:wrap; gap:10px;">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Emblema 1" width="100">
     <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Emblema 2" width="100">
-    <img src="emblema3.png" alt="Emblema 3" width="100">
+    <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="Emblema 3" width="100">
   </div>
 </details>
 
