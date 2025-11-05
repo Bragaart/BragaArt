@@ -12,9 +12,9 @@
   <summary>👨‍💻 More about me </summary>
   <br> <!-- espaçamento -->
   <p>
-    😊 I'm 24 years old and live in Brazil. I'm fluent in Spanish and have taken several other courses at Cisco, Fortinet, Cybrary, and SENAI. I'm also a Biomedical Specialist in Hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management. 
+    😊 I am 24 years old and live in Brazil, and I am currently obtaining my dual Portuguese nationality. I am fluent in Portuguese and Spanish, and I am studying English to improve my skills. Furthermore, I am a biomedical scientist specializing in hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
  <p>   
-  🏂 I like to devote my free time to reading books and manga, studying new languages, playing games and doing extreme sports.
+  🏂 I enjoy dedicating my time to my family, or even to reading books and manga, studying new languages, playing games, and practicing extreme sports.
   </p>
 </details>
 </p>
