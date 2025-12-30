@@ -42,6 +42,13 @@ Documentação técnica de cenários reais de simulação de adversários e prot
 | **Redes** | TCP/IP, DNS, SSL/TLS, Protocolos de Aplicação |
 
 ---
+ <div align="center">
+  <h2>🎓 Certificações em Destaque</h2>
+  <a href="https://www.credly.com/earner/earned/badge/87f0ca12-9e74-4d85-9aed-18859d2195e3">
+    <img src="https://img.shields.io/badge/CISCO-CyberOps%20Associate-049fd9?style=for-the-badge&logo=cisco&logoColor=white" width="300">
+  </a>
+  <p><i>Validando competências em monitoramento, análise e resposta a incidentes de segurança.</i></p>
+</div
 
 ## 📊 Atividade no GitHub
 ![Estatísticas do Arthur](https://github-readme-stats-eight-theta.vercel.app/api?username=Braga-art&show_icons=true&theme=radical)
