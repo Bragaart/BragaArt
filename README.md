@@ -1,73 +1,55 @@
-                    <h2> Presentation👋 :</h2>
- 
- * Hello, my name is Arthur! A passionate about Cybersecurity.
+# 🛡️ Arthur Braga | Cybersecurity & Purple Team Operations
+> **Defesa Cibernética | Pentesting | Análise de Vulnerabilidades**
+
+## 🕵️ Sobre Mim
+Olá! Sou o **Arthur**, um entusiasta de tecnologia de 24 anos focado em **Segurança Cibernética**.
+
+* 🛡️ **Foco Atual:** Graduando em **Segurança Cibernética** (Uniasselvi) com foco em **Purple Team**.
+* 🔬 **Background Científico:** Sou **Biomédico** com **Pós-graduação em Hematologia**, trazendo rigor analítico e atenção aos detalhes para a área tech.
+* 🚀 **Experiência Única:** Colaborador no programa **IASC/NASA**, atuando na detecção e monitoramento de asteroides.
+* 🎯 **Objetivo:** Proporcionar uma vida melhor para minha família através da tecnologia, construindo defesas digitais impenetráveis.
 
 
+### 🌐 Idiomas
+![Espanhol](https://img.shields.io/badge/Espanhol-Nativo%20%2F%20Fluente-brightgreen?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês-Básico%20(Leitura%20e%20Escrita)-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Libras](https://img.shields.io/badge/Libras-Básico-purple?style=for-the-badge&logo=accessibility&logoColor=white)
 
+---
 
-* 🎓 I am currently studying Cybersecurity at Uniasselvi.
+## 🚀 Projetos e Laboratórios (Hands-on)
+### [Cybersecurity-Labs](https://github.com/Bragaart/Cybersecurity-Labs)
+Documentação técnica de cenários reais de simulação de adversários e proteção:
 
-* 🔭  I am looking for my first job opportunity.  My dream is to one day work with Cybersecurity and give a good life to my parents.
-<details>
-  <summary>👨‍💻 More about me </summary>
-  <br> <!-- espaçamento -->
-  <p>
-    😊 I am 24 years old and live in Brazil, and I am currently obtaining my dual Portuguese nationality. I am fluent in Portuguese and Spanish, and I am studying English to improve my skills. Furthermore, I am a biomedical scientist specializing in hematology, which has helped me develop important skills such as communication, teamwork, ethics and responsibility, critical thinking, problem-solving, and time management.
- <p>   
-  🏂 I enjoy dedicating my time to my family, or even to reading books and manga, studying new languages, playing games, and practicing extreme sports.
-  </p>
-</details>
-</p>
-</p>
-</p>
-<h2>📈 Certifications :</h2>
+* **🔴 Red Team (Ofensivo):**
+    * **Exploração Web:** Varredura ativa e identificação de vulnerabilidades (XSS, Injection) com OWASP ZAP.
+    * **Network Recon:** Mapeamento de redes e identificação de serviços vulneráveis com Nmap.
+    * **Sniffing:** Interceptação de dados sensíveis em protocolos inseguros (HTTP).
 
-<details>
-  <summary>Meus Emblemas</summary>
-  <div style="display:flex; flex-wrap:wrap; gap:10px;">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Emblema 1" width="100">
-    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Emblema 2" width="100">
-    <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="Emblema 3" width="100">
-  </div>
-</details>
+* **🔵 Blue Team (Defensivo):**
+    * **Hardening:** Proteção de estações Windows e bloqueio de portas críticas (SMB/NetBIOS).
+    * **SIEM & Logs:** Detecção de tentativas de intrusão e ataques de Força Bruta (Event ID 4625).
+    * **Integridade:** Uso de Hashing (SHA256) para detecção de alterações não autorizadas.
 
+---
 
- 
+## 🛠️ Stack Técnica
+| Área | Ferramentas / Protocolos |
+| :--- | :--- |
+| **Ofensivo (Red)** | Nmap, Metasploit, OWASP ZAP, Google Dorks, OSINT |
+| **Defensivo (Blue)** | Wireshark, Auditpol, Event Viewer, Windows Firewall |
+| **Sistemas** | Kali Linux, Parrot Security, Windows Server, PowerShell |
+| **Redes** | TCP/IP, DNS, SSL/TLS, Protocolos de Aplicação |
 
- 
-</details>
+---
 
-<h2> 💻 Activities:</h2>
+## 📊 Atividade no GitHub
+![Estatísticas do Arthur](https://github-readme-stats-eight-theta.vercel.app/api?username=Braga-art&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BragaArt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img height="150" src="https://media1.giphy.com/media/qoHf1p7uXvna0/giphy.gif" />
-</div>
+---
 
-
-
-
-  
-  
-
-
-
-<h2>  Portfolio :</h2>
- In the stage of creation
-
-<h2> 📹 Popular YouTube Videos</h2>
- Preparing videos 
- 
-<h2> 📲  Connect with me:</h2>
-
-<div align="left">
-  <a href="https://youtube.com/seu-perfil" target="_blank" style="display:inline-block; vertical-align:top;">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/braga_art/" target="_blank" style="display:inline-block; vertical-align:top;">
+## 📫 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurbraga-analista-soc/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurbdodo@gmail.com)
+<a href="https://www.instagram.com/braga_art/" target="_blank" style="display:inline-block; vertical-align:top;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthurbraga-analista-soc" target="_blank" style="display:inline-block; vertical-align:top;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
