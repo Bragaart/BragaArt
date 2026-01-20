@@ -18,7 +18,7 @@ Olá! Sou o **Arthur**, um entusiasta de tecnologia de 24 anos focado em **Segur
 ---
 
 ## 🚀 Projetos e Laboratórios (Hands-on)
-### [Cybersecurity-Labs](https://github.com/Bragaart/Cybersecurity-Labs)
+### [Cybersecurity-Labs](https://github.com/Bragaart/CYBERSECURITY-OPERATIONS-CENTER-SOC-SIMULATION-LAB)
 Documentação técnica de cenários reais de simulação de adversários e proteção:
 
 * **🔴 Red Team (Ofensivo):**
