@@ -38,7 +38,7 @@ Documentação técnica de cenários reais de simulação de adversários e prot
 | :--- | :--- |
 | **Ofensivo (Red)** | Nmap, Metasploit, OWASP ZAP, Google Dorks, OSINT |
 | **Defensivo (Blue)** | Wireshark, Auditpol, Event Viewer, Windows Firewall |
-| **Sistemas** | Kali Linux, Parrot Security, Windows Server, PowerShell |
+| **Sistemas** | Kali Linux, Ubuntu, Windows Server, PowerShell |
 | **Redes** | TCP/IP, DNS, SSL/TLS, Protocolos de Aplicação |
 
 ---
