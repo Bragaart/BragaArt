@@ -2,7 +2,7 @@
 > **Defesa Cibernética | Pentesting | Análise de Vulnerabilidades**
 
 ## 🕵️ Sobre Mim
-Olá! Sou o **Arthur**, um entusiasta de tecnologia de 24 anos focado em **Segurança Cibernética**.
+Olá! Sou o **Arthur**, um entusiasta de tecnologia de 25 anos focado em **Segurança Cibernética**.
 
 * 🛡️ **Foco Atual:** Graduando em **Segurança Cibernética** (Uniasselvi) com foco em **Purple Team**.
 * 🔬 **Background Científico:** Sou **Biomédico** com **Pós-graduação em Hematologia**, trazendo rigor analítico e atenção aos detalhes para a área tech.
