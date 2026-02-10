@@ -27,8 +27,8 @@ Documentação técnica de cenários reais de simulação de adversários e prot
     * **Sniffing:** Interceptação de dados sensíveis em protocolos inseguros (HTTP).
 
 * **🔵 Blue Team (Defensivo):**
-    * **Hardening:** Proteção de estações Windows e bloqueio de portas críticas (SMB/NetBIOS).
-    * **SIEM & Logs:** Detecção de tentativas de intrusão e ataques de Força Bruta (Event ID 4625).
+    * **Hardening:** Proteção de estações Windows e bloqueio de portas críticas.
+    * **SIEM & Logs:** Detecção de tentativas de intrusão e ataques de Força Bruta.
     * **Integridade:** Uso de Hashing (SHA256) para detecção de alterações não autorizadas.
 
 ---
@@ -38,7 +38,7 @@ Documentação técnica de cenários reais de simulação de adversários e prot
 | :--- | :--- |
 | **Ofensivo (Red)** | Nmap, Metasploit, OWASP ZAP, Google Dorks, OSINT |
 | **Defensivo (Blue)** | Wireshark, Auditpol, Event Viewer, Windows Firewall |
-| **Sistemas** | Kali Linux, Ubuntu, Windows Server, PowerShell |
+| **Sistemas** | KaliLinux, Ubuntu, Windows Server, PowerShell |
 | **Redes** | TCP/IP, DNS, SSL/TLS, Protocolos de Aplicação |
 
 ---
